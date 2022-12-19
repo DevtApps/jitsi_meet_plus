@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  jitsi_meet:
+  jitsi_meet_plus:
     path: ./../
 
   # The following adds the Cupertino Icons font to your application.
